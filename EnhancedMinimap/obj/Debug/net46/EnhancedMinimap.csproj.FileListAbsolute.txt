@@ -1,6 +1,0 @@
-C:\Users\j\Desktop\unity\EnhancedMinimap\obj\Debug\net46\EnhancedMinimap.csproj.AssemblyReference.cache
-C:\Users\j\Desktop\unity\EnhancedMinimap\obj\Debug\net46\PluginInfo.cs
-C:\Users\j\Desktop\unity\EnhancedMinimap\obj\Debug\net46\EnhancedMinimap.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\j\Desktop\unity\EnhancedMinimap\obj\Debug\net46\EnhancedMinimap.AssemblyInfoInputs.cache
-C:\Users\j\Desktop\unity\EnhancedMinimap\obj\Debug\net46\EnhancedMinimap.AssemblyInfo.cs
-C:\Users\j\Desktop\unity\EnhancedMinimap\obj\Debug\net46\EnhancedMinimap.csproj.CoreCompileInputs.cache
